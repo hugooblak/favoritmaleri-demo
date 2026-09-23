@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Favorit Måleri AB',
+	'bransch'        => 'Måleri',
 	'telefon'        => '073-370 90 72',
 	'telefon_tel'    => '+46733709072',
 	'ort'            => 'Västra Frölunda',
